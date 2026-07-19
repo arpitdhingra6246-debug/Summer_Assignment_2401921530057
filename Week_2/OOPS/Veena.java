@@ -3,6 +3,6 @@ import music.playable;
 public class Veena implements Playable {
   @Override
   public void play() {
-    System.out.println("Playing Saxophone");
+    System.out.println("Playing Veena");
   }
 }
